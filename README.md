@@ -14,6 +14,8 @@ I build resilient backend systems.
 
 I craft user-friendly web applications.
 
+I design systems, APIs
+
 ### I am learning...
 
 
