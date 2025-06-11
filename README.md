@@ -14,7 +14,7 @@ I build resilient backend systems.
 
 I craft user-friendly web applications.
 
-I design systems, APIs
+I design systems, APIs and sometimes I even write poems.
 
 ### I am learning...
 
