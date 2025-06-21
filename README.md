@@ -18,7 +18,7 @@ I use this to build resilient backend systems.
 
 I also craft user-friendly web applications.
 
-I design systems, APIs and tell stories.
+I design systems, write APIs and tell stories.
 
 ## I am learning...
 
