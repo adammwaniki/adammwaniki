@@ -10,14 +10,17 @@ is a traditional Embu word that means "The one who hangs things"; typically beeh
 
 ## What I Do 🛠️
 
-I build resilient backend systems.
+Design for Disability!
 
-I craft user-friendly web applications.
+Where possible I do my best to apply the principles of being considerate while implementing systemic approach.
 
-I design systems, APIs and sometimes I even write poems.
+I use this to build resilient backend systems.
 
-### I am learning...
+I also craft user-friendly web applications.
 
+I design systems, APIs and tell stories.
+
+## I am learning...
 
 <!--
 **adammwaniki/adammwaniki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
