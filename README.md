@@ -2,7 +2,7 @@
 
 **Mwaniki**, pronounced:
 
--  ✨ / _mwah_ / like a kiss sound
+-  ✨ / _mwah_ / like the french word for "ME"
 -  ✨ / _neigh_ / like a horse sound
 -  ✨ / _key_ / let's open those doors!
   
