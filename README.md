@@ -10,8 +10,6 @@ is a traditional Embu word that means "The one who hangs things"; typically beeh
 
 ## What I Do 🛠️
 
-Design for Disability!
-
 Where possible I do my best to apply the principles of being considerate while implementing systemic approach.
 
 I use this to build resilient backend systems.
